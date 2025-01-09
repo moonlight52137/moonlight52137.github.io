@@ -29,13 +29,17 @@ Experiences
   <img src="../images/zju.png" alt="image" style="width: 200px; height: 200px;" />
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; max-width: 600px; margin: auto; border: 1px solid #ddd; padding: 10px;">
-  <span style="flex: 1; text-align: left; font-size: 16px; line-height: 1.5;">
-    Zhejiang University, Hangzhou China<br>PhD Student, 2020.9 ~ Now
-  </span>
-  <img src="../images/zju.png" alt="Zhejiang University Logo" style="flex: 0 0 auto; width: 120px; height: auto; margin-left: 20px;" />
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <p style="margin: 0; font-size: 16px;">
+      Zhejiang University, Hangzhou China<br>
+      PhD Student, 2020.9 ~ Now
+    </p>
+  </div>
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="images/zju.png" alt="Zhejiang University Logo" style="width: 120px; height: auto;">
+  </div>
 </div>
-
 
 
 
