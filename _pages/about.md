@@ -37,6 +37,19 @@ Experiences
 </div>
 
 
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <p style="margin: 0; font-size: 16px;">
+      Hefei University of Technology, Hefei China<br>
+      Undergraduate Student, 2016.9 ~ 2020.6
+    </p>
+  </div>
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="../images/Hefei_University_of_Technology_logo.svg.png" alt="Zhejiang University Logo" style="width: 120px; height: auto;">
+  </div>
+</div>
+
+
 
 Site-wide configuration
 ------
