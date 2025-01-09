@@ -29,10 +29,9 @@ Experiences
       PhD Student, 2020.9 ~ Now
     </p>
   </div>
-  <div style="flex: 0 0 auto; margin-left: 20px;">
-    <img src="assets/images/zju.png" alt="Zhejiang University Logo" style="width: 120px; height: auto;">
-  </div>
+  <img src="assets/images/zju.png" alt="Zhejiang University Logo" style="flex: 0 0 auto; width: 120px; height: auto; margin-left: 20px;">
 </div>
+
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
