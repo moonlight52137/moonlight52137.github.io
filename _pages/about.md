@@ -22,15 +22,16 @@ News
 
 Experiences
 ======
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-  <div style="flex: 1; text-align: left;">
-    <p style="margin: 0; font-size: 16px;">
-      Zhejiang University, Hangzhou China<br>
-      PhD Student, 2020.9 ~ Now
-    </p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="path_to_your_image.jpg" alt="描述图片" style="width: 100%; max-width: 500px; height: auto;">
   </div>
-  <img src="../images/zju.png" alt="Zhejiang University Logo" style="flex: 0 0 auto; width: 120px; height: auto; margin-left: 20px;">
+  <div style="flex: 2;">
+    <p>这里是你希望展示的文本内容。你可以写一些文字、描述、或者其他相关内容。</p>
+    <p>继续添加更多的文字，来说明图片的背景或是相关的解释。</p>
+  </div>
 </div>
+
 
 
 
