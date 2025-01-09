@@ -30,9 +30,12 @@ Experiences
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; width: auto;">
-  <span style="padding: 10px; text-align: center;">Zhejiang University, Hangzhou China<br>PhD Student, 2020.9 ~ Now</span>
-  <img src="../images/zju.png" alt="image" style="width: 100px; height: 100px; margin-left: 20px;" />
+  <span style="padding: 10px; text-align: left; flex-shrink: 1;">
+    Zhejiang University, Hangzhou China<br>PhD Student, 2020.9 ~ Now
+  </span>
+  <img src="../images/zju.png" alt="image" style="width: auto; height: 150px; margin-left: 20px; flex-shrink: 0;" />
 </div>
+
 
 
 Site-wide configuration
