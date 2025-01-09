@@ -22,17 +22,6 @@ News
 
 Experiences
 ======
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <img src="path_to_your_image.jpg" alt="描述图片" style="width: 100%; max-width: 500px; height: auto;">
-  </div>
-  <div style="flex: 2;">
-    <p>这里是你希望展示的文本内容。你可以写一些文字、描述、或者其他相关内容。</p>
-    <p>继续添加更多的文字，来说明图片的背景或是相关的解释。</p>
-  </div>
-</div>
-
-
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
