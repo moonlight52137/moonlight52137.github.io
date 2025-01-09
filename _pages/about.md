@@ -16,7 +16,8 @@ Email：(812367510@qq.com) / [Github](https://github.com/moonlight52137)
 News
 ======
 2024.12: Our paper "Improving Skeleton-based Action Recognition with Interactive Object Information" has been accepted at IJMIR.
-2023.10: Our paper "A novel feature for action recognition" has been published at MTA
+
+2023.10: Our paper "A novel feature for action recognition" has been published at MTA.
 
 
 Experiences
