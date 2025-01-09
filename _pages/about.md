@@ -22,12 +22,18 @@ News
 
 Experiences
 ======
-<div style="display: flex; align-items: center; width: auto; justify-content: space-between;">
-  <span style="padding: 10px; width: 300px; text-align: left;">Zhejiang University, Hangzhou China
-  PhD Student, 2020.9 ~ Now</span>
-   <span style="flex-grow: 1; padding: 10px; text-align: left;"></span>
-  <img src="../images/zju.png" alt="image" style="width: 200px; height: 200px;" />
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <p style="margin: 0; font-size: 16px;">
+      Zhejiang University, Hangzhou China<br>
+      PhD Student, 2020.9 ~ Now
+    </p>
+  </div>
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="assets/images/zju.png" alt="Zhejiang University Logo" style="width: 120px; height: auto;">
+  </div>
 </div>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; text-align: left;">
