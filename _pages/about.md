@@ -37,7 +37,7 @@ Experiences
     </p>
   </div>
   <div style="flex: 0 0 auto; margin-left: 20px;">
-    <img src="images/zju.png" alt="Zhejiang University Logo" style="width: 120px; height: auto;">
+    <img src="../images/zju.png" alt="Zhejiang University Logo" style="width: 120px; height: auto;">
   </div>
 </div>
 
