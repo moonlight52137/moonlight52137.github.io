@@ -22,9 +22,12 @@ News
 
 Experiences
 ======
-| 图片 | 文字 |
-| ---- | ---- |
-| ![图片](your-image-url.jpg) | 这里是图片旁边的文字 |
+<div style="display: flex; align-items: center; width: auto; justify-content: space-between;">
+  <span style="padding: 10px; width: 500px; text-align: left;">Zhejiang University, Hangzhou China
+  PhD Student, 2020.9 ~ Now</span>
+   <span style="flex-grow: 1; padding: 10px; text-align: left;"></span>
+  <img src="../images/zju.png" alt="image" style="width: 200px; height: 200px;" />
+</div>
 
 
 Site-wide configuration
