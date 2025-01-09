@@ -13,11 +13,13 @@ You can find my CV here:[Hao Wen's Curriculum Vitae](../assets/Curriculum_Vitae.
 
 Email：(812367510@qq.com) / [Github](https://github.com/moonlight52137) 
 
-Experiences
+News
 ======
+2024.12: Our paper "Improving Skeleton-based Action Recognition with Interactive Object Information" has been accepted at IJMIR.
+2023.10: Our paper "A novel feature for action recognition" has been published at MTA
 
 
-Getting started
+Experiences
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
