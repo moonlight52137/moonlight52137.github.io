@@ -11,7 +11,7 @@ I am currently working toward a Ph.D. degree with [School of Aeronautics and Ast
 
 You can find my CV here:[Hao Wen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](812367510@qq.com) / [Github](https://github.com/moonlight52137) 
+Email：(812367510@qq.com) / [Github](https://github.com/moonlight52137) 
 
 A data-driven personal website
 ======
